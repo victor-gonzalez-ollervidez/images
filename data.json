@@ -1,4 +1,19 @@
 {
-"hello":"world"
-
+  "backgrounds": [
+    {
+      "url": "https://i.pinimg.com/564x/89/c5/42/89c54274e553b01804fa1f2118c35fd1.jpg"
+    },
+    {
+      "url": "https://i.pinimg.com/564x/5e/87/86/5e878669bad2c736b563ed89dcef162b.jpg"
+    },
+    {
+      "url": "https://i.pinimg.com/564x/92/da/7c/92da7c9fbab09a4cffad3d168ffd448d.jpg"
+    },
+    {
+      "url": "https://i.pinimg.com/564x/be/14/a4/be14a41a62aa135ac85d2974ff92d94c.jpg"
+    },
+    {
+      "url": "https://i.pinimg.com/564x/be/14/a4/be14a41a62aa135ac85d2974ff92d94c.jpg"
+    }
+  ]
 }
